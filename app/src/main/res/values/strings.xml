@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lofty</string>
+    <string name="hint">Text to be Displayed Above</string>
+</resources>
