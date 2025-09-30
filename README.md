@@ -15,14 +15,22 @@ https://github.com/user-attachments/assets/f1d7ee3b-1302-48ee-85db-73342114731b
 - More features coming
 ### Pre-requisites
 1. Run your attackers Server
+   
   `python3 lofty-server.py`
+  
   Or
-  `python3 lofty-server1.py`
 
-2. Change the Server Ip on the source Code.Just do a search and replace of `http://192.168.100.39:8000/post` and replace that to your ip.
+  `python3 lofty-server1.py`
+  
+- NB: I recommend you to remove the server files to another folder.
+
+  
+2. Change the Server Ip on the source Code.Just do a search and replace of **`http://192.168.100.39:8000/post`** and replace that to your ip.
+
+   
 <img width="455" height="137" alt="lofty-ip" src="https://github.com/user-attachments/assets/4519a813-b711-4d26-9ee8-2fb17697f3bd" />
 
-3.  
+   
 ### Build from source
 
 1. Set Android studio and clone repo
@@ -38,6 +46,9 @@ NB: **<u>*I recommend you to remove the server files to another folder</u>.***
 
 Contributions are welcome — let’s keep learning.  
 Please open issues for bugs or suggestions and send pull requests for changes; keep PRs focused and include a short description of the change. Be respectful and avoid adding active payloads, real credentials, or anything unsafe.
+
+<img width="1920" height="1080" alt="Screenshot From 2025-09-30 04-56-17" src="https://github.com/user-attachments/assets/4021ec06-503f-49c7-91df-dc6925c4d031" />
+
 
 Disclaimer
 
